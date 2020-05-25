@@ -8,5 +8,5 @@ Main file is `Main.m`. If you run this file you will get a question about downlo
 The `app1.mlapp` gui file using for testing. In gui screen you will open draw window for draw number and test with network you created before.
 
 <p align="center">
-![app1](2020-03-27_224429.png)
+<img src="2020-03-27_224429.png">
 </p>
