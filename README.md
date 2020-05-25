@@ -7,4 +7,4 @@ Main file is `Main.m`. If you run this file you will get a question about downlo
 
 The `mlapp` gui file using for testing. In gui screen you will open draw window for draw number and test with network you created before.
 
-<center>![app1](https://raw.githubusercontent.com/mguludag/MNIST-Trainer-and-Tester-in-MATLAB/master/2020-03-27_224429.png)</center>
+![app1](2020-03-27_224429.png)
